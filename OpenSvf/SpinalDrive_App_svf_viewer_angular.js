@@ -11,7 +11,7 @@ class SpinalDrive_App_FileExplorer_svf_viewer_angular extends SpinalDrive_App {
    */
   constructor() {
     super(
-      "OpenSvfFileExplorer",
+      "OpenSvfFileExplorerAngular",
       "Open with BIM Viewer angular",
       9,
       "location_city",
