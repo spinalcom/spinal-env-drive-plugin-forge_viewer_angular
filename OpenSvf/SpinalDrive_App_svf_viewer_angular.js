@@ -12,10 +12,10 @@ class SpinalDrive_App_FileExplorer_svf_viewer_angular extends SpinalDrive_App {
   constructor() {
     super(
       "OpenSvfFileExplorerAngular",
-      "Open with BIM Viewer angular",
+      "Open with Collaborator viewer",
       9,
       "location_city",
-      "Open the angular BIM Viewer"
+      "Open the Collaborator viewer"
     );
     this.order_priority = 5;
   }
